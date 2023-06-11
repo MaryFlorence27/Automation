@@ -9,6 +9,7 @@ public class loginsteps {
     @And("Click on post button")
     public void clickOnPostButton() {
         System.out.println("clickOnPostButton");
+        System.out.println("today is teacher's day");
 
     }
 
